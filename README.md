@@ -130,7 +130,7 @@ class MyHomePage extends StatelessWidget {
   }
 }
 ```
-"## Explicação:
+## Explicação:
 
 - **`ThemeData`**: Define o tema do aplicativo, incluindo a cor primária.
 - **`Scaffold`**: Estrutura básica com `AppBar` e `body`.
@@ -142,5 +142,5 @@ class MyHomePage extends StatelessWidget {
 
 ## 📄 Licença
 
-Este projeto está sob a **MIT License** – sinta-se livre para usar e modificar."
+Este projeto está sob a **MIT License** – sinta-se livre para usar e modificar.
 
